@@ -151,3 +151,7 @@ bugzoo tool upload genprog
 
 This README file covers essential BugZoo installation steps and demonstrates how to effectively use various BugZoo commands. For more detailed documentation, refer to the official [BugZoo GitHub repository](https://github.com/squaresLab/BugZoo).
 
+---
+### Video of the tool execution
+
+[Link](https://drive.google.com/file/d/1P87BFtugPi4U9YW1sCEfET5qPcTc6S_z/view?usp=sharing)
